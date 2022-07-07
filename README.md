@@ -3,7 +3,7 @@
 <div align="left">
     <div>
         <h4>
-            <b>🖥️ | Computer Science student at Universidade Católica de Pernambuco - 3/8</b>
+            <b>🖥️ | Computer Science student at Universidade Católica de Pernambuco - 4/8</b>
         </h4>
         <h4>
             <b>⌨️ | Data Science and Backend development</b>
