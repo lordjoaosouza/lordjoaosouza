@@ -3,13 +3,10 @@
 <div align="left">
     <div>
         <h4>
-            <b>🖥️ | Computer Science student at UNICAP - 5/8</b>
+            <b>🖥️ | Computer Science student at UNICAP - 6/8</b>
         </h4>
         <h4>
-            <b>⌨️ | Backend development</b>
-        </h4>
-        <h4>
-            <b>☕ | Coffee addicted, Formula 1 driver (for sure)</b>
+            <b>⌨️ | Full stack developer</b>
         </h4>
         <h4>
             <b>🏔️ | "Enjoy the simplicity"</b>
